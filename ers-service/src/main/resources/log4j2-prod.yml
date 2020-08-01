@@ -39,7 +39,7 @@ Configuration:
       - name: com.netflix
         level: info
       - name: org.hibernate
-        lavel: info
+        level: info
 
     Root:
       level: info
