@@ -13,6 +13,10 @@
     </parent>
     <groupId>com.actilive</groupId>
     <artifactId>ers</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>${revision}</version>
+
+    <properties>
+        <revision>0.0.1-SNAPSHOT</revision>
+    </properties>
 
 </project>
