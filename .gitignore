@@ -34,3 +34,7 @@ build/
 
 ### flattened poms
 **/.flattened-pom.xml
+
+### logs ###
+**/*.log
+**/*.log.*

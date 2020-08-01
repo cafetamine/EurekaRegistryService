@@ -8,4 +8,4 @@ spring:
     include: info
 
 logging:
-  config: classpath:log4j2-prod.yml
+  config: classpath:log4j2-dev.yml
