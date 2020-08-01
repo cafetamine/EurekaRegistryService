@@ -6,3 +6,6 @@ spring:
     name: @project.artifactId@
   profiles:
     include: info
+
+logging:
+  config: classpath:log4j2-prod.yml
