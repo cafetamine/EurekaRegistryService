@@ -8,3 +8,5 @@ ${AnsiColor.BRIGHT_YELLOW}     \ \__\ \__\   \ \_______\       \ \__\   \ \__\ |
 ${AnsiColor.BRIGHT_YELLOW}      \|__|\|__|    \|_______|        \|__|    \|__| \|__|    \|_______|    \|__|    \|__|/        \|_______|
 ${AnsiColor.DEFAULT}
 Spring Boot version: ${spring-boot.version}
+Application: ${application.title}
+Version: ${application.version}
