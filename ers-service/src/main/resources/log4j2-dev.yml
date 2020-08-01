@@ -25,6 +25,12 @@ Configuration:
     logger:
       - name: org.springframework
         level: info
+      - name: io.micrometer
+        level: info
+      - name: com.netflix
+        level: info
+      - name: org.hibernate
+        lavel: info
 
     Root:
       level: debug
