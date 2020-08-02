@@ -18,11 +18,11 @@
 
     <properties>
         <java.version>11</java.version>
+
         <revision>0.0.1-SNAPSHOT</revision>
 
-        <spring-clud.version>Hoxton.SR6</spring-clud.version>
-
         <jackson.version>2.11.1</jackson.version>
+        <spring-cloud.version>Hoxton.SR6</spring-cloud.version>
     </properties>
 
     <modules>
@@ -46,7 +46,7 @@
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-dependencies</artifactId>
-                <version>${spring-clud.version}</version>
+                <version>${spring-cloud.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
